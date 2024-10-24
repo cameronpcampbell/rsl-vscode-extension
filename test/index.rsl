@@ -1,0 +1,13 @@
+#TextLabel {
+    TextSize = 15,
+    Size = (0, 0),
+    AutomaticSize = "XY",
+    BackgroundColor3 = "#243C9D",
+    BorderSizePixel = 0,
+
+    ::UICorner {
+        CornerRadius = (0, 100)
+    }
+}
+
+return
